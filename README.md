@@ -50,6 +50,7 @@ This application provides a graphical user interface (GUI) for performing variou
    opencv-python-headless
    pillow
    numpy
+   tkinter
    ```
 
 3. **Run the Application:**
